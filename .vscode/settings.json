@@ -1,0 +1,8 @@
+{
+    "liveSassCompile.settings.formats":[
+        {
+            "savePath": "/css"
+        }
+    ],
+    "liveServer.settings.port": 5502
+}
